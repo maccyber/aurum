@@ -4,6 +4,7 @@ src/aurumd
 src/test_aurum
 .*.swp
 *.*~*
+*~
 *.bak
 *.rej
 *.orig
