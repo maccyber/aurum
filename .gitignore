@@ -1,0 +1,25 @@
+*~src/*.exe
+src/aurum
+src/aurumd
+src/test_aurum
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.aurum
+
+# Mac specific
+.DS_Store
+build
+
+# Qt creator
+*.pro.user
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+Aurum-qt
+Aurum-Qt.app
